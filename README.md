@@ -1,7 +1,9 @@
 # Collect Coins
 <b>Introduction</b>: The collect coins is a game made using Blender 3D software, which has 3 levels of the game. <br/>
 
-<a src="https://github.com/SandeepLavhate/Collect_Coins_Game/blob/master/Menu_screen.gif">
+<img src="https://github.com/SandeepLavhate/Collect_Coins_Game/blob/master/Menu_Screen.png" width="510px" height="280px" align="right">
+
+
 
 <b>Objective</b>: The objective of the game is to collect the respective coins by facing hurdles and complete the levels and go forward to win. 
 
@@ -12,7 +14,8 @@ The collect coin game has 3 levels, The levels divided into basic to difficult f
   Level 2: Moderate level<br/>
   Level 3: High 
   
-<b>How to PLAY</b>:
+  
+  <b>How to PLAY</b>:
 Move the Cube (player) to collect the coins by keboard keys to go forward, backword etc. 
 
 <B>Keys to PLAY</B>: 
@@ -23,3 +26,9 @@ Move the Cube (player) to collect the coins by keboard keys to go forward, backw
  <LI>RIGHT ARROW – To move BACKWARD</LI>
  <LI>SPACEBAR – To jump</LI>
   </LI>
+
+
+
+ 
+ 
+  
